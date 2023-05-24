@@ -22,3 +22,4 @@
 ## 🎯 足球练习任务 <a href="#soccer-practice" id="soccer-practice"></a>
 
 * [十一个足球零基础运球练习](soccer-practice/eleven-for-freshman.md)
+* [零基础颠球入门](soccer-practice/how-to-juggle.md)
