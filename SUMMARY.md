@@ -12,3 +12,13 @@
 
 * [基本功-拍球](basketball/ji-ben-gong-pai-qiu.md)
 * [基本功-结合脚步](basketball/ji-ben-gong-jie-he-jiao-bu.md)
+
+## ⛹♂ 篮球练习任务
+
+* [球性练习1](lan-qiu-lian-xi-ren-wu/qiu-xing-lian-xi-1.md)
+* [球性练习2](lan-qiu-lian-xi-ren-wu/qiu-xing-lian-xi-2.md)
+* [球性练习3](lan-qiu-lian-xi-ren-wu/qiu-xing-lian-xi-3.md)
+
+## 🎯 足球练习任务
+
+* [初学者球感练习](zu-qiu-lian-xi-ren-wu/chu-xue-zhe-qiu-gan-lian-xi.md)
