@@ -19,6 +19,6 @@
 * [球性练习2](lan-qiu-lian-xi-ren-wu/qiu-xing-lian-xi-2.md)
 * [球性练习3](lan-qiu-lian-xi-ren-wu/qiu-xing-lian-xi-3.md)
 
-## 🎯 足球练习任务
+## 🎯 足球练习任务 <a href="#soccer-practice" id="soccer-practice"></a>
 
-* [十一个足球零基础运球练习](zu-qiu-lian-xi-ren-wu/shi-yi-ge-zu-qiu-ling-ji-chu-yun-qiu-lian-xi.md)
+* [十一个足球零基础运球练习](soccer-practice/eleven-for-freshman.md)
