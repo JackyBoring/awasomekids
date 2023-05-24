@@ -21,4 +21,4 @@
 
 ## 🎯 足球练习任务
 
-* [初学者球感练习](zu-qiu-lian-xi-ren-wu/chu-xue-zhe-qiu-gan-lian-xi.md)
+* [十一个足球零基础运球练习](zu-qiu-lian-xi-ren-wu/shi-yi-ge-zu-qiu-ling-ji-chu-yun-qiu-lian-xi.md)
