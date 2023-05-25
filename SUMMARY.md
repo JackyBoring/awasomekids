@@ -13,11 +13,11 @@
 * [基本功-拍球](basketball/ji-ben-gong-pai-qiu.md)
 * [基本功-结合脚步](basketball/ji-ben-gong-jie-he-jiao-bu.md)
 
-## ⛹♂ 篮球练习任务
+## ⛹♂ 篮球练习任务 <a href="#basketball-practice" id="basketball-practice"></a>
 
-* [球性练习1](lan-qiu-lian-xi-ren-wu/qiu-xing-lian-xi-1.md)
-* [球性练习2](lan-qiu-lian-xi-ren-wu/qiu-xing-lian-xi-2.md)
-* [球性练习3](lan-qiu-lian-xi-ren-wu/qiu-xing-lian-xi-3.md)
+* [球性练习1](basketball-practice/qiu-xing-lian-xi-1.md)
+* [球性练习2](basketball-practice/qiu-xing-lian-xi-2.md)
+* [球性练习3](basketball-practice/qiu-xing-lian-xi-3.md)
 
 ## 🎯 足球练习任务 <a href="#soccer-practice" id="soccer-practice"></a>
 
